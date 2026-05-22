@@ -1,0 +1,23 @@
+# Node/React
+node_modules/
+dist/
+dist-ssr/
+*.local
+.eslintcache
+
+# Python/Flask
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env
+instance/
+*.db
+
+# Editores/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
